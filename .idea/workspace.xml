@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dfdc0ab8-62cd-4f0d-8867-e4e16120cd29" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\applications\apache-maven-3.6.1-bin\apache-maven-3.6.1\repository" />
+        <option name="mavenHome" value="D:/applications/apache-maven-3.6.1-bin/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\applications\apache-maven-3.6.1-bin\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YABbc9oJ311lrQeNkE9VhXo5ky" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="JUnit.TestLock.testLock">
+    <configuration name="TestLock.testLock" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zookeeper-distribute-lock" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.join.zookeeper2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.join.zookeeper2" />
+      <option name="MAIN_CLASS_NAME" value="com.join.zookeeper2.TestLock" />
+      <option name="METHOD_NAME" value="testLock" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLock.testZK" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zookeeper-distribute-lock" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.join.zookeeper2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.join.zookeeper2" />
+      <option name="MAIN_CLASS_NAME" value="com.join.zookeeper2.TestLock" />
+      <option name="METHOD_NAME" value="testZK" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestLock.testLock" />
+        <item itemvalue="JUnit.TestLock.testZK" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfdc0ab8-62cd-4f0d-8867-e4e16120cd29" name="Default Changelist" comment="" />
+      <created>1582375590281</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582375590281</updated>
+      <workItem from="1582375594926" duration="1293000" />
+      <workItem from="1582376970384" duration="7670000" />
+      <workItem from="1582430182301" duration="1743000" />
+      <workItem from="1582463476173" duration="15972000" />
+      <workItem from="1582510049042" duration="323000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1582430398174">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1582430398174" />
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582468226466">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1582468226466" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1582468107423">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1582468107423" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1582376553607">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582376553607" />
+    <state width="1493" height="550" key="GridCell.Tab.0.bottom" timestamp="1582479474874">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="550" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582479474874" />
+    <state width="1493" height="550" key="GridCell.Tab.0.center" timestamp="1582479474874">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="550" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582479474874" />
+    <state width="1493" height="550" key="GridCell.Tab.0.left" timestamp="1582479474874">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="550" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582479474874" />
+    <state width="1493" height="550" key="GridCell.Tab.0.right" timestamp="1582479474874">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="550" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582479474874" />
+    <state x="299" y="68" key="Maven.ArtifactSearchDialog" timestamp="1582383265501">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="68" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1582383265501" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1582468260188">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582468260188" />
+    <state x="449" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1582510123573">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582510123573" />
+  </component>
+</project>
